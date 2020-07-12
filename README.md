@@ -1,4 +1,4 @@
-### Hi there, I am Manikandan Nair 👋
+### Hi there 👋
 
 
 
