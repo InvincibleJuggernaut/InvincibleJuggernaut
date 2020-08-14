@@ -7,3 +7,5 @@
 - :wink: Definitely not the “coder with the hoodie”. 
 - :office: Inclined towards the intersection of security and microprocessors.
 - :dancers: An Open Source enthusiast.
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=InvincibleJuggernaut)](https://github.com/InvincibleJuggernaut/github-readme-stats)
