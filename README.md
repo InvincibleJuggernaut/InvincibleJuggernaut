@@ -1,3 +1,5 @@
+<img src="Assets/header.jpg">
+
 ### Hi   <img src="https://github.com/InvincibleJuggernaut/InvincibleJuggernaut/blob/master/Assets/wave.gif" width="30px">
 
 
@@ -7,6 +9,15 @@
 - :wink: Definitely not the “coder with the hoodie”. 
 - :dancers: An Open Source enthusiast.
 
+<br>
 <p align="center">
-<img src="https://count.getloli.com/get/@:invinciblejuggernaut?theme=gelbooru">
+  You are visitor #
+  </p>
+  <p align="center">
+<img src="https://count.getloli.com/get/@:invinciblejuggernaut?theme=moebooru">
 </p>
+
+<br>
+<br>
+
+<img src="Assets/footer.jpg">
