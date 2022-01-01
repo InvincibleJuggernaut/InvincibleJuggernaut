@@ -1,4 +1,5 @@
-<img src="Assets/header.jpg">
+<img src="Assets/panel_top.png">
+
 
 ### Hi   <img src="https://github.com/InvincibleJuggernaut/InvincibleJuggernaut/blob/master/Assets/wave.gif" width="30px">
 
@@ -20,4 +21,4 @@
 <br>
 <br>
 
-<img src="Assets/footer.jpg">
+<img src="Assets/panel_bottom.png">
