@@ -1,6 +1,5 @@
 <img src="Assets/top.png" alt="Header image">
 
-
 ### Hi   <img src="https://github.com/InvincibleJuggernaut/InvincibleJuggernaut/blob/master/Assets/wave.gif" width="30px">
 
 
@@ -20,5 +19,4 @@
 
 <br>
 <br>
-
 <img src="Assets/panel_bottom.png" alt="Footer image">
