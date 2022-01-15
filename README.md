@@ -2,12 +2,8 @@
 
 ### Hi   <img src="https://github.com/InvincibleJuggernaut/InvincibleJuggernaut/blob/master/Assets/wave.gif" width="30px">
 
-
-
-- :telescope: Currently majoring in Electronics & Communication Engineering.
-- :bowtie: More often than not, I tend to write code/scripts to solve problems which were troubling me lately.
-- :wink: Definitely not the “coder with the hoodie”. 
-- :dancers: An Open Source enthusiast.
+I am Manikandan Nair, a final year student majoring in Electronics & Communication Engineering. I like to write simple scripts that automate daily mundane tasks. I am more inclined and passionate towards hardware although most of my repositories here might lead you to think otherwise.
+I also try my best to contribute to open source projects and encourage their use.
 
 <br>
 <p align="center">
