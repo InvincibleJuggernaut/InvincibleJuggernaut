@@ -12,7 +12,7 @@ I also try my best to contribute to open source projects and encourage their use
   You are visitor #
   </p>
   <p align="center">
-<img src="https://count.getloli.com/get/@:invinciblejuggernaut?theme=moebooru">
+<img src="https://count.getloli.com/get/@:invinciblejuggernaut?theme=moebooru" alt="Visitor counter">
 </p>
 
 <br>
