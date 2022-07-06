@@ -1,6 +1,6 @@
 <img src="Assets/header.png" alt="Header image">
 
-<a href="https://www.linkedin.com/in/pamana"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/mnairp"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ### Hello   <img src="https://github.com/InvincibleJuggernaut/InvincibleJuggernaut/blob/master/Assets/wave.gif" width=29>
 
