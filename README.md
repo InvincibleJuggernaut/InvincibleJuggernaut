@@ -9,7 +9,7 @@ I also try my best to contribute to open source projects and encourage their use
 
 <br>
 <p align="center">
-  You are visitor #
+  You seem to be visitor #
   </p>
   <p align="center">
 <img src="https://count.getloli.com/get/@:invinciblejuggernaut?theme=moebooru" alt="Visitor counter">
