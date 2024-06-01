@@ -12,7 +12,7 @@ I also try my best to contribute to open source projects and encourage their use
   You seem to be visitor #
   </p>
   <p align="center">
-<img src="https://count.getloli.com/get/@:invinciblejuggernaut?theme=moebooru" alt="Visitor counter">
+<img src="https://profile-counter.glitch.me/{InvincibleJuggernaut}/count.svg" alt="Visitor counter">
 </p>
 
 <br>
